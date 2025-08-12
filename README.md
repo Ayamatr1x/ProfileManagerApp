@@ -23,3 +23,12 @@ https://profile-manager-app-omega.vercel.app/
 - **localStorage** – Data persistence
 - **Vercel** – Deployment
 
+## How to run the Application
+##Navigate to project folder
+-cd ProfileManagerApp
+
+##Install dependencies
+-npm install
+
+##Run the development server
+-npm run dev
